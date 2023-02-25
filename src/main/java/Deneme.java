@@ -6,4 +6,4 @@ public class Deneme {
     }
 }
 //Restore --> Tamamen Work,ng Space'i temizler
-//
+//stash --> Hafizaya alir
