@@ -5,6 +5,10 @@ public class Deneme {
 
         //git
         //merhaba Dünya
+        //github
+        //github 2. deneme
+        //erol branch
+        //erol branch 2 deneme
     }
 }
 //Restore --> Tamamen Work,ng Space'i temizler
