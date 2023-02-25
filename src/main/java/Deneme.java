@@ -3,6 +3,8 @@ public class Deneme {
         System.out.println("Merhaba");
         System.out.println("Dünya");
 
+        //git
+        //merhaba Dünya
     }
 }
 //Restore --> Tamamen Work,ng Space'i temizler
